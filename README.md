@@ -8,8 +8,6 @@
 
 使用当前最新版本0.4.8
 
-![image-20240417161657073](C:\Users\woan\AppData\Roaming\Typora\typora-user-images\image-20240417161657073.png)
-
 
 
 
